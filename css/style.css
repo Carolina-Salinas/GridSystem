@@ -1,0 +1,58 @@
+*{outline: 1px solid rgba(255,0,0,0.4);}
+/* Inserta tu codigo aqui */
+.header{
+	background: #000000;
+
+}
+.header li{
+	display: inline-block;
+	text-decoration: none;
+	padding: 7px;
+	position:relative;
+	top:-70px;
+	left:230px;
+
+}
+.header a{
+	text-decoration:none;
+	color: #FFFFFF;
+} 
+.hero{
+	background: #C0C0C0;
+}
+.hero img{ 
+	width: 100%;
+	border:3px ridge #FFFFFF;
+}
+.hero h2{
+	padding: 5px;
+}
+.hero h2 a{
+	font-size: 10px;
+}
+.col-3 li{
+	list-style: none;
+	padding: 20px;
+}
+.col-3 li a{
+	text-decoration: none;
+}
+
+.thumbs img{
+	max-width: 100px;
+	border:1px ridge #FFFFFF;
+	margin top: 2%;
+}
+.caja{
+	margin-top: 20px;
+
+}
+.caja a p{
+	width: 100px;
+} 
+.col-8 li{
+	list-style: none;
+	display: inline-block;
+	padding: 5px;
+	text-decoration: none;
+}
